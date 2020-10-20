@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6707e6b2.chunk.css",
+    "main.js": "/static/js/main.6ca9fafc.chunk.js",
+    "main.js.map": "/static/js/main.6ca9fafc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.cd846464.chunk.css": "/static/css/2.cd846464.chunk.css",
+    "static/js/2.3129728c.chunk.js": "/static/js/2.3129728c.chunk.js",
+    "static/js/2.3129728c.chunk.js.map": "/static/js/2.3129728c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e52083388bea41a91e14a9130db6a130.js": "/precache-manifest.e52083388bea41a91e14a9130db6a130.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cd846464.chunk.css.map": "/static/css/2.cd846464.chunk.css.map",
+    "static/css/main.6707e6b2.chunk.css.map": "/static/css/main.6707e6b2.chunk.css.map",
+    "static/js/2.3129728c.chunk.js.LICENSE.txt": "/static/js/2.3129728c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/download.2b9fa4d5.jpg",
+    "static/media/satellite.svg": "/static/media/satellite.07c6d561.svg",
+    "static/media/starlink_logo.svg": "/static/media/starlink_logo.13dbd9ca.svg",
+    "static/media/stars_footer.jpg": "/static/media/stars_footer.08dbde37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.cd846464.chunk.css",
+    "static/js/2.3129728c.chunk.js",
+    "static/css/main.6707e6b2.chunk.css",
+    "static/js/main.6ca9fafc.chunk.js"
+  ]
+}
